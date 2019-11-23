@@ -3,7 +3,7 @@ public class ConsoleApp {
         int a = 10;
         int b = 12;
         int c = a + b;
-
+        // sumowanie wartości
         System.out.println("Wynik dodawania " + a + " do " + b + " to: " + c);
     }
 }
